@@ -1,3 +1,6 @@
+theme: jekyll-theme-cyman
+title:  Welcome to iamnik13's homepage!
+description: Feel free to bookmark this page to keep an eye on my projects.
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/iamnik13/iamnik13.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
